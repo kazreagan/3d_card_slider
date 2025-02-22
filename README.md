@@ -1,4 +1,4 @@
-# 3d_card_flipper
+# 3d_card_slider
 This is a dynamic website that showcases a range of professional services inluding `Web Development` , `Graphic Design` `Computer Servicing`, and `Interior Decoration & Furniture Assembly`. The website is designed to provide information about these services and present them with modern, visually appealing elements like stacked-card animations.
 
 ## Features
